@@ -2,7 +2,7 @@
 
 ## Lexer
 
-- [x] Create the lexer initial structure
+- [ ] Create the lexer initial structure
 
 ## Parser
 
